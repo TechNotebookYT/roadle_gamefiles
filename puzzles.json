@@ -1,79 +1,70 @@
 [
   {
-    "id": "cadillac-escalade-2006",
-    "date": "2026-05-25",
-    "answer": {
-      "make": "Cadillac",
-      "model": "Escalade",
-      "year": 2006
-    },
-    "reveals": [
-      "/cars/cadillac-escalade-2006/reveal-1.webp",
-      "/cars/cadillac-escalade-2006/reveal-2.webp",
-      "/cars/cadillac-escalade-2006/reveal-3.webp",
-      "/cars/cadillac-escalade-2006/reveal-4.webp",
-      "/cars/cadillac-escalade-2006/reveal-5.webp"
-    ],
-    "fullImage": "/cars/cadillac-escalade-2006/full.webp",
-    "credit": "Demo image credit",
-    "source": "Demo source",
-    "license": "Demo license"
-  },
-  {
-    "id": "porsche-911-gt3-2022",
+    "id": "chevrolet-bolt-ev-2017",
     "date": "2026-05-22",
     "answer": {
-      "make": "Porsche",
-      "model": "911 GT3",
-      "year": 2022
-    },
-    "reveals": [
-      "/cars/porsche-911-gt3-2022/reveal-1.webp",
-      "/cars/porsche-911-gt3-2022/reveal-2.webp",
-      "/cars/porsche-911-gt3-2022/reveal-3.webp",
-      "/cars/porsche-911-gt3-2022/reveal-4.webp",
-      "/cars/porsche-911-gt3-2022/reveal-5.webp"
-    ],
-    "fullImage": "/cars/porsche-911-gt3-2022/full.webp",
-    "credit": "Demo image credit",
-    "source": "Demo source",
-    "license": "Demo license"
-  },
-  {
-    "id": "bmw-m3-2008",
-    "date": "2026-05-23",
-    "answer": {
-      "make": "BMW",
-      "model": "M3",
-      "year": 2008
-    },
-    "reveals": [
-      "/cars/bmw-m3-2008/reveal-1.webp",
-      "/cars/bmw-m3-2008/reveal-2.webp",
-      "/cars/bmw-m3-2008/reveal-3.webp",
-      "/cars/bmw-m3-2008/reveal-4.webp",
-      "/cars/bmw-m3-2008/reveal-5.webp"
-    ],
-    "fullImage": "/cars/bmw-m3-2008/full.webp",
-    "credit": "Demo image credit",
-    "source": "Demo source",
-    "license": "Demo license"
-  },
-  {
-    "id": "chevrolet-bolt-2017",
-    "date": "2026-05-21",
-    "answer": {
       "make": "Chevrolet",
-      "model": "Bolt",
+      "model": "Bolt EV",
       "year": 2017
     },
     "reveals": [
-      "/cars/game1/reveal-1.webp",
-      "/cars/game1/reveal-2.webp",
-      "/cars/game1/reveal-3.webp",
-      "/cars/game1/reveal-4.webp",
-      "/cars/game1/reveal-5.webp"
+      "https://raw.githubusercontent.com/TechNotebookYT/roadle_gamefiles/refs/heads/main/game1/reveal-1.webp",
+      "https://raw.githubusercontent.com/TechNotebookYT/roadle_gamefiles/refs/heads/main/game1/reveal-2.webp",
+      "https://raw.githubusercontent.com/TechNotebookYT/roadle_gamefiles/refs/heads/main/game1/reveal-3.webp",
+      "https://raw.githubusercontent.com/TechNotebookYT/roadle_gamefiles/refs/heads/main/game1/reveal-4.webp",
+      "https://raw.githubusercontent.com/TechNotebookYT/roadle_gamefiles/refs/heads/main/game1/reveal-5.webp"
     ],
-    "fullImage": "/cars/game1/full.webp"
+    "fullImage": "https://raw.githubusercontent.com/TechNotebookYT/roadle_gamefiles/refs/heads/main/game1/full.webp"
+  },
+  {
+    "id": "rimac-nevera-2021",
+    "date": "2026-05-23",
+    "answer": {
+      "make": "Rimac",
+      "model": "Nevera",
+      "year": 2021
+    },
+    "reveals": [
+      "https://raw.githubusercontent.com/TechNotebookYT/roadle_gamefiles/refs/heads/main/game2/reveal-1.webp",
+      "https://raw.githubusercontent.com/TechNotebookYT/roadle_gamefiles/refs/heads/main/game2/reveal-2.webp",
+      "https://raw.githubusercontent.com/TechNotebookYT/roadle_gamefiles/refs/heads/main/game2/reveal-3.webp",
+      "https://raw.githubusercontent.com/TechNotebookYT/roadle_gamefiles/refs/heads/main/game2/reveal-4.webp",
+      "https://raw.githubusercontent.com/TechNotebookYT/roadle_gamefiles/refs/heads/main/game2/reveal-5.webp"
+    ],
+    "fullImage": "https://raw.githubusercontent.com/TechNotebookYT/roadle_gamefiles/refs/heads/main/game2/full.webp"
+  },
+  {
+    "id": "buick-encore-2015",
+    "date": "2026-05-24",
+    "answer": {
+      "make": "Buick",
+      "model": "Encore",
+      "year": 2015
+    },
+    "reveals": [
+      "https://raw.githubusercontent.com/TechNotebookYT/roadle_gamefiles/refs/heads/main/game3/reveal-1.webp",
+      "https://raw.githubusercontent.com/TechNotebookYT/roadle_gamefiles/refs/heads/main/game3/reveal-2.webp",
+      "https://raw.githubusercontent.com/TechNotebookYT/roadle_gamefiles/refs/heads/main/game3/reveal-3.webp",
+      "https://raw.githubusercontent.com/TechNotebookYT/roadle_gamefiles/refs/heads/main/game3/reveal-4.webp",
+      "https://raw.githubusercontent.com/TechNotebookYT/roadle_gamefiles/refs/heads/main/game3/reveal-5.webp"
+    ],
+    "fullImage": "https://raw.githubusercontent.com/TechNotebookYT/roadle_gamefiles/refs/heads/main/game3/full.webp"
+  },
+  {
+    "id": "gmc-acadia-2009",
+    "date": "2026-05-25",
+    "answer": {
+      "make": "GMC",
+      "model": "Acadia",
+      "year": 2009
+    },
+    "reveals": [
+      "https://raw.githubusercontent.com/TechNotebookYT/roadle_gamefiles/refs/heads/main/game4/reveal-1.webp",
+      "https://raw.githubusercontent.com/TechNotebookYT/roadle_gamefiles/refs/heads/main/game4/reveal-2.webp",
+      "https://raw.githubusercontent.com/TechNotebookYT/roadle_gamefiles/refs/heads/main/game4/reveal-3.webp",
+      "https://raw.githubusercontent.com/TechNotebookYT/roadle_gamefiles/refs/heads/main/game4/reveal-4.webp",
+      "https://raw.githubusercontent.com/TechNotebookYT/roadle_gamefiles/refs/heads/main/game4/reveal-5.webp"
+    ],
+    "fullImage": "https://raw.githubusercontent.com/TechNotebookYT/roadle_gamefiles/refs/heads/main/game4/full.webp"
   }
 ]
