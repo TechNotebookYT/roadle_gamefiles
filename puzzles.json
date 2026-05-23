@@ -66,5 +66,22 @@
       "https://raw.githubusercontent.com/TechNotebookYT/roadle_gamefiles/refs/heads/main/game4/reveal-5.webp"
     ],
     "fullImage": "https://raw.githubusercontent.com/TechNotebookYT/roadle_gamefiles/refs/heads/main/game4/full.webp"
+  },
+  {
+    "id": "mazda-cx-5-2013",
+    "date": "2026-05-26",
+    "answer": {
+      "make": "Mazda",
+      "model": "CX-5",
+      "year": 2013
+    },
+    "reveals": [
+      "https://raw.githubusercontent.com/TechNotebookYT/roadle_gamefiles/refs/heads/main/game5/reveal-1.webp",
+      "https://raw.githubusercontent.com/TechNotebookYT/roadle_gamefiles/refs/heads/main/game5/reveal-2.webp",
+      "https://raw.githubusercontent.com/TechNotebookYT/roadle_gamefiles/refs/heads/main/game5/reveal-3.webp",
+      "https://raw.githubusercontent.com/TechNotebookYT/roadle_gamefiles/refs/heads/main/game5/reveal-4.webp",
+      "https://raw.githubusercontent.com/TechNotebookYT/roadle_gamefiles/refs/heads/main/game5/reveal-5.webp"
+    ],
+    "fullImage": "https://raw.githubusercontent.com/TechNotebookYT/roadle_gamefiles/refs/heads/main/game5/full.webp"
   }
 ]
