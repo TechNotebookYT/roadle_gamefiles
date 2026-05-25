@@ -83,39 +83,7 @@
       "https://raw.githubusercontent.com/TechNotebookYT/roadle_gamefiles/refs/heads/main/game5/reveal-5.webp"
     ],
     "fullImage": "https://raw.githubusercontent.com/TechNotebookYT/roadle_gamefiles/refs/heads/main/game5/full.webp"
-  },
-  {
-    "id": "toyota-venza-2013",
-    "date": "2026-05-27",
-    "answer": {
-      "make": "Toyota",
-      "model": "Venza",
-      "year": 2013
-    },
-    "reveals": [
-      "https://raw.githubusercontent.com/TechNotebookYT/roadle_gamefiles/refs/heads/main/game6/reveal-1.webp",
-      "https://raw.githubusercontent.com/TechNotebookYT/roadle_gamefiles/refs/heads/main/game6/reveal-2.webp",
-      "https://raw.githubusercontent.com/TechNotebookYT/roadle_gamefiles/refs/heads/main/game6/reveal-3.webp",
-      "https://raw.githubusercontent.com/TechNotebookYT/roadle_gamefiles/refs/heads/main/game6/reveal-4.webp",
-      "https://raw.githubusercontent.com/TechNotebookYT/roadle_gamefiles/refs/heads/main/game6/reveal-5.webp"
-    ],
-    "fullImage": "https://raw.githubusercontent.com/TechNotebookYT/roadle_gamefiles/refs/heads/main/game6/full.webp"
-  },
-  {
-    "id": "volkswagen-tiguan-2022",
-    "date": "2026-05-28",
-    "answer": {
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "year": 2022
-    },
-    "reveals": [
-      "https://raw.githubusercontent.com/TechNotebookYT/roadle_gamefiles/refs/heads/main/game7/reveal-1.webp",
-      "https://raw.githubusercontent.com/TechNotebookYT/roadle_gamefiles/refs/heads/main/game7/reveal-2.webp",
-      "https://raw.githubusercontent.com/TechNotebookYT/roadle_gamefiles/refs/heads/main/game7/reveal-3.webp",
-      "https://raw.githubusercontent.com/TechNotebookYT/roadle_gamefiles/refs/heads/main/game7/reveal-4.webp",
-      "https://raw.githubusercontent.com/TechNotebookYT/roadle_gamefiles/refs/heads/main/game7/reveal-5.webp"
-    ],
-    "fullImage": "https://raw.githubusercontent.com/TechNotebookYT/roadle_gamefiles/refs/heads/main/game7/full.webp"
   }
 ]
+
+
